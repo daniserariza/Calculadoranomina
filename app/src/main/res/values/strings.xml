@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculadora de Nómina</string>
+    <string name="salario_basico">Salario básico mensual</string>
+    <string name="horas_diurnas">Horas extra diurnas</string>
+    <string name="horas_nocturnas">Horas extra nocturnas</string>
+    <string name="es_dominical">Horas extra en domingo o festivo</string>
+    <string name="transporte_empresa">La empresa suministra el transporte</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpiar">Limpiar</string>
+
+    <!-- Desglose de Nómina -->
+    <string name="seccion_devengado">Devengado</string>
+    <string name="seccion_deducciones">Deducciones</string>
+    <string name="lbl_valor_hora">Valor hora ordinaria</string>
+    <string name="lbl_horas_extra">Horas extra</string>
+    <string name="lbl_aux_transporte">Auxilio de transporte</string>
+    <string name="lbl_total_devengado">Total devengado</string>
+    <string name="lbl_salud">Salud (4%)</string>
+    <string name="lbl_pension">Pensión (4%)</string>
+    <string name="lbl_fsp">Fondo de Solidaridad Pensional (1%)</string>
+    <string name="lbl_total_deducciones">Total deducciones</string>
+    <string name="lbl_salario_neto">Salario neto a recibir</string>
+
+    <!-- Rangos Salariales -->
+    <string name="rango_1_desc">Rango 1: Con derecho a auxilio de transporte</string>
+    <string name="rango_2_desc">Rango 2: Sin auxilio de transporte ni Fondo de Solidaridad</string>
+    <string name="rango_3_desc">Rango 3: Aporta al Fondo de Solidaridad Pensional</string>
+</resources>
